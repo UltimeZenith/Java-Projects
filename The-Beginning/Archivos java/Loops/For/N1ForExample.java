@@ -1,4 +1,4 @@
-public class 1_ForExample{
+public class N1ForExample{
 	public static void main(String[] args){
 		for (int i=1;i<=10;i++){
 			System.out.println(i);
