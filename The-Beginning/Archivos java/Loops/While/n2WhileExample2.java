@@ -1,4 +1,4 @@
-public class WhileExample2{
+public class n2WhileExample2{
 	public static void main(String[] args){
 		int i = 0;
 		while(true){
