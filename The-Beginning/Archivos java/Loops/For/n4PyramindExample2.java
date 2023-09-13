@@ -1,4 +1,4 @@
-public class PyramindExample2{
+public class n4PyramindExample2{
 	public static void main(String[] args){
 		int term=6;
 		for(int i=1;i<=term;i++){
